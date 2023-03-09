@@ -16,6 +16,9 @@ public class SalaryCalculator {
             case "B":
                 message = "Great";
                 break;
+            case "C":
+                message = "So so";
+                break;
             default:
                 message = "Que dices";
         }
